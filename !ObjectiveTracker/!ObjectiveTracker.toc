@@ -1,0 +1,6 @@
+## Interface: 70100
+## Title: ObjectiveTracker
+## Title-zhCN: !任务栏美化 ObjectiveTracker
+## Notes: ObjectiveTracker
+
+ObjectiveTracker.lua
